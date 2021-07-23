@@ -1,0 +1,2 @@
+rootProject.name = "(LayoutsWE)problem1"
+include ':app'
